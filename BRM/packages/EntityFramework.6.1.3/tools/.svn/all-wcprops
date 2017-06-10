@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools
+END
+EntityFramework.psd1
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/EntityFramework.psd1
+END
+init.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/init.ps1
+END
+EntityFramework.PowerShell.dll
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/EntityFramework.PowerShell.dll
+END
+install.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/install.ps1
+END
+migrate.exe
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/migrate.exe
+END
+EntityFramework.PowerShell.Utility.dll
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/EntityFramework.PowerShell.Utility.dll
+END
+EntityFramework.psm1
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/EntityFramework.psm1
+END
+about_EntityFramework.help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/EntityFramework.6.1.3/tools/about_EntityFramework.help.txt
+END

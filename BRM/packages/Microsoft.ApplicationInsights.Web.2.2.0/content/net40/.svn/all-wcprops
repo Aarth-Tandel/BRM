@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40
+END
+ApplicationInsights.config.install.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.install.xdt
+END
+web.config.install.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/web.config.install.xdt
+END
+ApplicationInsights.config.uninstall.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.uninstall.xdt
+END
+web.config.uninstall.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/web.config.uninstall.xdt
+END
+ApplicationInsights.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.transform
+END

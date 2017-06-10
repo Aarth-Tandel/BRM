@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="~/CSS/materialize.css" rel="stylesheet" />
+    <script src="~/Scripts/materialize.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="grey darken-4">
+            <div class="nav-wrapper">
+                <a class="brand-logo center" href="/Home/Login">BRM Tool</a>
+            </div>
+        </nav>
+    </header>
+    <main class="container body-content">
+        @RenderBody()
+        <hr />
+    </main>
+    <footer class="grey darken-4 page-footer">
+        @*<div class="container">
+            <div class="row">
+                <div class="col l5 s12">
+                    <h5 class="white-text">About Us</h5>
+                    <p class="grey-text text-lighten-4">
+                        Our commitment to client success is at the core of our business.
+                        We are proud to count over 150 Fortune 1000 companies as trusted clients who rely on our breadth of knowledge, skilled consultants,
+                        proven experience and technology accelerators to implement their IT vision.
+                    </p>
+                </div>
+                <div class="col l3 offset-l1 s12">
+                    <h5 class="white-text">Connect With Us</h5>
+                    <ul>
+                        <li style="display:inline">
+                            <img src="~/Images/linkedin.png" />
+                        </li>
+                        <li style="display:inline">
+                            <img src="~/Images/pinterest.png" />
+                        </li>
+                        <li style="display:inline">
+                            <img src="~/Images/twitter.png" />
+                        </li>
+                        <li style="display:inline">
+                            <img src="~/Images/facebook-box.png" />
+                        </li>
+                    </ul>
+                </div>
+                <div class="col l2 offset-l1 s12">
+                    <h5 class="white-text">Product</h5>
+                    <ul class="white-text">
+                        <li>
+                            <p>Security</p>
+                        </li>
+                        <li>
+                            <p>Cloud Computing</p>
+                        </li>
+                        <li>
+                            <p>Cognitive Intelligence</p>
+                        </li>
+                        <li>
+                            <p>Health</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>*@
+        <div class="footer-copyright">
+            <div class="container">
+                <p class="center-align white-text">&copy; @DateTime.Now.Year - Vascos Corportaion Limited</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

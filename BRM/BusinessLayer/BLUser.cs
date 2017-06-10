@@ -1,0 +1,23 @@
+﻿using System.Linq;
+using DatabaseLayer;
+
+namespace BusinessLayer
+{
+    public class BLUser
+    {
+        public BRMContext db = new BRMContext();
+    
+        public bool  Authenticate(string username, string password)
+        {
+            bool isvalid = db.UserContext.Where(b => b.Username.Equals(username) && b.Password.Equals(password)).Any();
+            if (isvalid) return true;
+            else return false;
+        }
+
+        public int GetUserID(string username)
+        {
+            int id = (from i in db.UserContext where i.Username == username select i.ID).FirstOrDefault();
+            return id;
+        }
+    }
+}

@@ -1,0 +1,47 @@
+﻿/// <reference path="../angular.js" />
+
+var myApp = angular.module('myApp', [])
+    .controller("myCtrl", ['$scope', '$http',
+        function ($scope, $http) {
+            $http.get("/Dashboard/GetApplication").then(function (responses) {
+                $scope.names = responses.data;
+            });
+
+            
+
+            $scope.GetRelease = function () {
+                if ($scope.Application)
+                    $http.post("/Dashboard/GetRelease/" + $scope.Application.ID, JSON.stringify({ ID: $scope.Application })).then(function (response) {
+                        $scope.release = response.data;
+                    });
+            }
+
+            $scope.GetChange = function () {
+                $http.get("/Dashboard/GetChanges").then(function (response) {
+                    $scope.change = response.data;
+                });
+            }
+
+            $scope.GetEnvironment = function () {
+                if ($scope.Release)
+                    $http.post("/Dashboard/GetEnvironment/" + $scope.Release.ID, JSON.stringify({ ID: $scope.Release })).then(function (response) {
+                        $scope.environment = response.data;
+                    });
+            }
+
+            $scope.GetServer = function () {
+                if ($scope.Environment)
+                    $http.post("/Dashboard/GetServer/" + $scope.Environment.ID, JSON.stringify({ ID: $scope.Environment })).then(function (response) {
+                        $scope.server = response.data;
+                    });
+            }
+
+            $scope.SaveDetails = function () {
+                debugger;
+                var username = '<%= Session["UserName"] %>';
+                if($scope.Application || $scope.Release || $scope.Change || $scope.Environment || $scope.Server)
+                    $http.post("/Dashboard/SaveDetails/"+ $scope.Application.ID+$scope.Release.ID+$scope.Change.ID+$scope.Environment.ID+$scope.Server.ID, JSON.stringify({ ID: $scope.Application, ID: $scope.Release, ID: $scope.Change, ID: $scope.Environment, ID: $scope.Server })).then(function (response) {
+                        alert("Saved Successfully");
+                    });
+            }
+        }]);

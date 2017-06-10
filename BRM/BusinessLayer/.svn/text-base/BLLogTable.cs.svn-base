@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DatabaseLayer;
+using EntityLayer;
+
+namespace BusinessLayer
+{
+    public class BLLogTable
+    {
+        BRMContext db = new BRMContext();
+
+        public List<string> GetApplicationName()
+        {
+            List<string> name = new List<string>();
+            var appName = (from application in db.ApplicationContext
+                          join log in db.LogsContext on application.ID equals log.ID
+                          select application.Name).Reverse().Take(10).Reverse().FirstOrDefault();
+
+            name.Add(appName);
+            return name;
+        }
+    }
+}

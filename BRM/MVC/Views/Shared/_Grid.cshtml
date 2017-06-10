@@ -1,0 +1,25 @@
+﻿@model BRM.Models.Projects
+
+<div id="LogGrid" ng-controller="WebGrid">
+    @{
+        WebGrid DataLogGrid = new WebGrid(Model.logs, rowsPerPage: 10, ajaxUpdateContainerId: "LogGrid");
+    }
+    @DataLogGrid.GetHtml(
+    tableStyle: "centered highlight",
+        columns:
+        DataLogGrid.Columns(
+             DataLogGrid.Column("Application", format: @<text>  <span class="display-mode" id="Application">@item.application </span></text>),
+            DataLogGrid.Column("Release", format: @<text>  <span class="display-mode" id="Release">@item.Release </span></text>),
+            DataLogGrid.Column("Changes", format: @<text>  <span class="display-mode" id="Changes">@item.Changes </span></text>),
+            DataLogGrid.Column("Environment", format: @<text>  <span class="display-mode" id="Environment">@item.Environment </span></text>),
+            DataLogGrid.Column("Server", format: @<text>  <span class="display-mode" id="Server">@item.Server </span></text>),
+            DataLogGrid.Column("Username", format: @<text>  <span class="display-mode" id="Username">@item.Username </span></text>),
+            DataLogGrid.Column("Date", format: @<text>  <span class="display-mode" id="Date">@item.CompleteDate </span></text>),
+            DataLogGrid.Column(null, null, format: @<input type="hidden" id="ID" value="@item.ID" />),
+             DataLogGrid.Column("Action", format: @<text>
+                <button class="btn-flat waves-effect grey darken-4 white-text waves-light" value="" id="BtnDelete">Delete</button>
+                <button class="btn-flat waves-effect grey darken-4 white-text waves-light" value="" id="BtnUpdate">Re-Deploy</button>
+            </text>)
+                ))
+
+</div>

@@ -1,0 +1,70 @@
+﻿@model BRM.Models.Projects
+@{
+    ViewBag.Title = "Application";
+    ViewBag.ID = Session["ID"];
+}
+
+<h2>Application</h2>
+<script src="~/Scripts/angular.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+<script src="~/Scripts/Dashboard/DataBinding.js"></script>
+<script src="~/Scripts/Dashboard/Webgrid.js"></script>
+
+<div>
+    @if (Session["UserName"] != null)
+    { 
+        <text>
+        Welcome @Session["UserName"].ToString() 
+        </text>
+    }
+</div>
+<html ng-app="myApp">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body ng-controller="myCtrl">
+
+    <input type="hidden" value="@ViewBag.ID" id="HdnUserID" />
+    <div class="row">
+        <div class="input-field col s2">
+            <select id="ddlapplication" class="browser-default" ng-change="GetRelease()" ng-options="a as a.application for a in names" ng-model="Application">
+                <option value="">--Select Application--</option>
+            </select>
+        </div>
+
+        <div class="input-field col s2">
+            <select id="ddlRelease"class="browser-default" ng-model="Release" ng-change="GetChange()" ng-options="r as r.release for r in release">
+                <option value="">--Select Release--</option>
+            </select>
+        </div>
+
+        <div class="input-field col s2">
+            <select id="ddlChanges" class="browser-default" ng-model="Change" ng-change="GetEnvironment()" ng-options="c as c.changes for c in change">
+                <option value="">--Select Change--</option>
+            </select>
+        </div>
+
+        <div class="input-field col s2">
+            <select id="ddlEnvironment" class="browser-default" ng-model="Environment" ng-change="GetServer()" ng-options="e as e.Environment for e in environment">
+                <option value="">--Select Environment--</option>
+            </select>
+        </div>
+
+        <div class="input-field col s2">
+            <select id="ddlServer" class="browser-default" ng-model="Server" ng-options="s as s.server for s in server">
+                <option value="">--Select Server--</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="center-align">
+        <button value="submit" id="BtnUpdate" type="submit" class="waves-effect grey darken-4 white-text waves-light btn-flat" ng-click="SaveDetails()">Deploy</button>
+    </div>
+
+    <br />
+    <div id="divProduct">
+
+    </div>
+</body>
+</html>

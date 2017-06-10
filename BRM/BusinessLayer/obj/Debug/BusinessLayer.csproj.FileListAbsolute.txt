@@ -1,0 +1,84 @@
+D:\Projects\Training\MVC\MVC\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Projects\Training\MVC\MVC\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Projects\Training\MVC\MVC\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\Training\MVC\MVC\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\Training\MVC\MVC\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\Training\MVC\MVC\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Projects\Training\MVC\MVC\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Projects\Training\MVC\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Owin.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.Data.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.WebData.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.Data.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.WebData.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Owin.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.Data.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.WebData.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityLayer.dll.config
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.Data.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\bin\Debug\WebMatrix.WebData.xml
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
