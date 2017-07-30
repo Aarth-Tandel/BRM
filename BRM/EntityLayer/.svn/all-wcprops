@@ -1,71 +1,77 @@
 K 25
 svn:wc:ra_dav:version-url
 V 149
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer
+/svn/Offshore_ADM/!svn/ver/1726/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer
+END
+LogData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Offshore_ADM/!svn/ver/1749/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/LogData.cs
 END
 packages.config
 K 25
 svn:wc:ra_dav:version-url
 V 165
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/packages.config
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/packages.config
 END
 Release.cs
 K 25
 svn:wc:ra_dav:version-url
 V 160
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Release.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Release.cs
 END
 app.config
 K 25
 svn:wc:ra_dav:version-url
 V 160
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/app.config
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/app.config
 END
 Application.cs
 K 25
 svn:wc:ra_dav:version-url
 V 164
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Application.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Application.cs
 END
 EntityLayer.csproj
 K 25
 svn:wc:ra_dav:version-url
 V 168
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/EntityLayer.csproj
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/EntityLayer.csproj
 END
 Environment.cs
 K 25
 svn:wc:ra_dav:version-url
 V 164
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Environment.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Environment.cs
 END
 Logs.cs
 K 25
 svn:wc:ra_dav:version-url
 V 157
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Logs.cs
+/svn/Offshore_ADM/!svn/ver/1749/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Logs.cs
 END
 UserDetails.cs
 K 25
 svn:wc:ra_dav:version-url
 V 164
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/UserDetails.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/UserDetails.cs
 END
 Server.cs
 K 25
 svn:wc:ra_dav:version-url
 V 159
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Server.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Server.cs
 END
 Environments.cs
 K 25
 svn:wc:ra_dav:version-url
 V 165
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Environments.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Environments.cs
 END
 Changes.cs
 K 25
 svn:wc:ra_dav:version-url
 V 160
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Changes.cs
+/svn/Offshore_ADM/!svn/ver/1678/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/EntityLayer/Changes.cs
 END

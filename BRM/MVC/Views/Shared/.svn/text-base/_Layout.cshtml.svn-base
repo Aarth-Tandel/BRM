@@ -14,7 +14,19 @@
             </div>
         </nav>
     </header>
+    <div class="right-align" style="padding:20px">
+        <button id="BtnLogout" type="submit" class="waves-effect grey darken-4 white-text waves-light btn-flat">Logout</button>
+        <div style="margin-top:10px;margin-right:5px">
+            @if (Session["UserName"] != null)
+            {
+                <text>
+                    Welcome @Session["UserName"].ToString()
+                </text>
+            }
+        </div>
+    </div>
     <main class="container body-content">
+        
         @RenderBody()
         <hr />
     </main>
@@ -67,7 +79,7 @@
         </div>*@
         <div class="footer-copyright">
             <div class="container">
-                <p class="center-align white-text">&copy; @DateTime.Now.Year - Vascos Corportaion Limited</p>
+                <p class="center-align white-text">&copy; @DateTime.Now.Year - BRM Tool</p>
             </div>
         </div>
     </footer>

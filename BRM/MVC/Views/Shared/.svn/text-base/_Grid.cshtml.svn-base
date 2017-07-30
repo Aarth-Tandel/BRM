@@ -1,0 +1,29 @@
+﻿@model BRM.Models.Projects
+
+<div id="LogGrid">
+    @{
+        WebGrid DataLogGrid = new WebGrid(Model.logs, rowsPerPage: 10, ajaxUpdateContainerId: "LogGrid");
+    }
+    @DataLogGrid.GetHtml(
+    htmlAttributes: new { id = "logTable" },
+    tableStyle: "centered highlight",
+        columns:
+        DataLogGrid.Columns(
+            DataLogGrid.Column("Application", format: @<text>  <span class="display-mode" id="Application">@item.application </span></text>),
+            DataLogGrid.Column("Release", format: @<text>  <span class="display-mode" id="Release">@item.Release </span></text>),
+            DataLogGrid.Column("Changes", format: @<text>  <span class="display-mode" id="Changes">@item.Changes </span></text>),
+            DataLogGrid.Column("Environment", format: @<text>  <span class="display-mode" id="Environment">@item.Environment </span></text>),
+            DataLogGrid.Column("Server", format: @<text>  <span class="display-mode" id="Server">@item.Server </span></text>),
+            DataLogGrid.Column("Deployed by", format: @<text>  <span class="display-mode" id="Username">@item.Username </span></text>),
+            DataLogGrid.Column("Status", format:  @<input class="btn-flat" type="button" id="Status" value="@item.Status" />),
+            //DataLogGrid.Column("Status", format: @<text>@Html.ActionLink((string)item.Status.ToString(),"null",new { @class = "Status" })</text>),
+            DataLogGrid.Column("Deployed by", format: @<text>  <span class="display-mode" id="Date">@item.CompleteDate </span></text>),
+            DataLogGrid.Column(null, null, format: @<input type="hidden" id="ID" value="@item.ID" />),
+            DataLogGrid.Column(null,null, format: @<input type="hidden" id="URL" value="@item.URL" />),
+            DataLogGrid.Column("Action", format: @<text>
+                <button class="btn-flat waves-effect grey darken-4 white-text waves-light" value="" id="BtnDelete">Delete</button>
+                <button class="btn-flat waves-effect grey darken-4 white-text waves-light" value="" id="BtnRedeploy">Re-Deploy</button>
+            </text>)
+                ))
+
+</div>

@@ -28,7 +28,7 @@ namespace BRM.Controllers
             BLUser isValid = new BLUser();
             if (isValid.Authenticate(model.Username, model.Password))
             {
-                Session["Username"] = model.Username;
+                Session["UserName"] = model.Username;
                 int ID = isValid.GetUserID(model.Username);
                 Session["ID"] = ID;
                 return RedirectToAction("Application","Dashboard");

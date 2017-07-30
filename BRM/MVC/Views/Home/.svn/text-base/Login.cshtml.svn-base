@@ -7,7 +7,7 @@
 @{
     ViewBag.Title = "Login";
 }
-<title>Vascos</title>
+<title>BRM Tool</title>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="~/CSS/materialize.css" rel="stylesheet" />
@@ -120,7 +120,7 @@
         @using (Html.BeginForm("ForgotPassword", "Home", FormMethod.Post))
         {
             <div class="modal-content">
-                <h4 class="center-align">Sign Up!</h4>
+                <h4 class="center-align">Forgot Password?</h4>
                 @Html.AntiForgeryToken()
                 <div class="row container">
                     <div class="input-field col s12">

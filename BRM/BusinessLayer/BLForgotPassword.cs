@@ -39,11 +39,11 @@ namespace BusinessLayer
                 Objsmtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 Objsmtp.UseDefaultCredentials = false;
                 Objsmtp.EnableSsl = true;
-                Objsmtp.Credentials = new NetworkCredential("maankamal220@gmail.com", "radhaswamiji");
+                Objsmtp.Credentials = new NetworkCredential("", "");
 
                 Objsmtp.Host = "smtp.gmail.com";
                 mail.IsBodyHtml = true;
-                mail.From = new MailAddress("maankamal220@gmail.com");
+                mail.From = new MailAddress("");
                 mail.To.Add(emailid);
                 mail.Subject = subject;
                 mail.Body = body;
@@ -51,8 +51,7 @@ namespace BusinessLayer
             }
             catch (System.Exception ex)
             {
-
-                throw;
+                throw ex;
             }
           
 

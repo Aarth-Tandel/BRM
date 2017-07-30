@@ -1,9 +1,11 @@
 ﻿using System.Data.Entity;
 using EntityLayer;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace DatabaseLayer
 {
-    public class BRMContext : DbContext 
+    public class BRMContext : DbContext
     {
         public BRMContext() : base("BRMContext")
         {
@@ -16,5 +18,7 @@ namespace DatabaseLayer
         public DbSet<Environments> EnvironmentContext { get; set; }
         public DbSet<Changes> ChangesContext { get; set; }
         public DbSet<Application> ApplicationContext { get; set; }
+        public DbSet<LogData> LogDataContext { get; set;  }
     }
+
 }

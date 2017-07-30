@@ -16,5 +16,6 @@ namespace EntityLayer
         public int Users_ID { get; set; }
         public string StartDate { get; set; }
         public string CompleteDate { get; set; }
+        public string URL { get; set; }
     }
 }

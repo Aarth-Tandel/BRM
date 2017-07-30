@@ -4,20 +4,13 @@
     ViewBag.ID = Session["ID"];
 }
 
-<h2>Application</h2>
+
 <script src="~/Scripts/angular.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
 <script src="~/Scripts/Dashboard/DataBinding.js"></script>
 <script src="~/Scripts/Dashboard/Webgrid.js"></script>
 
-<div>
-    @if (Session["UserName"] != null)
-    { 
-        <text>
-        Welcome @Session["UserName"].ToString() 
-        </text>
-    }
-</div>
+<h2>Application</h2>
 <html ng-app="myApp">
 <head>
     <title></title>
@@ -56,12 +49,12 @@
                 <option value="">--Select Server--</option>
             </select>
         </div>
-    </div>
 
-    <div class="center-align">
-        <button value="submit" id="BtnUpdate" type="submit" class="waves-effect grey darken-4 white-text waves-light btn-flat" ng-click="SaveDetails()">Deploy</button>
-    </div>
+        <div class="center-align col s2" style="margin-top:20px">
+            <button value="submit" id="BtnUpdate" type="submit" class="waves-effect grey darken-4 white-text waves-light btn-flat" ng-click="SaveDetails()">Deploy</button>
+        </div>
 
+    </div>
     <br />
     <div id="divProduct">
 

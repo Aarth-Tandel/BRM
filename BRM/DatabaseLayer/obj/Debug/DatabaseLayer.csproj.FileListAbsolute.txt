@@ -35,29 +35,3 @@ D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\Da
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityLayer.dll
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityLayer.pdb
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\DatabaseLayer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityFramework.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityLayer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Helpers.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Mvc.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Razor.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.Razor.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityLayer.pdb
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityLayer.dll.config
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityFramework.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Helpers.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Mvc.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.Razor.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\obj\Debug\DatabaseLayer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

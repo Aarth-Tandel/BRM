@@ -26,26 +26,3 @@ D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\En
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.dll
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.pdb
 D:\Batch-2017\Assignments\Aarth Tandel\Weekly Assinments\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\EntityLayer.dll.config
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\EntityLayer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\EntityLayer.pdb
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\Microsoft.Web.Helpers.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Helpers.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Mvc.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Razor.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.Razor.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\WebMatrix.Data.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\WebMatrix.WebData.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Helpers.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Mvc.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.Razor.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\bin\Debug\WebMatrix.WebData.xml
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.dll
-D:\Aarth\Programming\Dot Net\Week5_24_04_2017\BRM\EntityLayer\obj\Debug\EntityLayer.pdb

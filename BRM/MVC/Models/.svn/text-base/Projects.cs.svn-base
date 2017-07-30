@@ -2,24 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using EntityLayer;
 
 namespace BRM.Models
 {
     public class Projects
     {
-        public List<string> Application_Name { get; set; }
-        public string Application_ID { get; set; }
-        public string Username_Application { get; set; }
-        public string Password_Application { get; set; }
-
-        public string Release_ID { get; set; }
-        public string Release_Name { get; set; }
-        public string SVN { get; set; }
-
-        public string Environment_Name { get; set; }
-
-        public string Change_Name { get; set; }
-
-        public string Server_Name { get; set; }
+        public LogData log { get; set; }
+        public List<LogData> logs { get; set; }
+        public string Status { get; set; }
     }
 }

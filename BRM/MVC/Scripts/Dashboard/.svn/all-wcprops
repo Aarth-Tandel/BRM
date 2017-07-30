@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 159
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard
+/svn/Offshore_ADM/!svn/ver/1726/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard
 END
-Dropdowns.js
+DataBinding.js
 K 25
 svn:wc:ra_dav:version-url
-V 172
-/svn/Offshore_ADM/!svn/ver/1521/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard/Dropdowns.js
+V 174
+/svn/Offshore_ADM/!svn/ver/1726/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard/DataBinding.js
+END
+Webgrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/Offshore_ADM/!svn/ver/1752/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard/Webgrid.js
 END

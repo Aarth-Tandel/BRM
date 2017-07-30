@@ -7,7 +7,7 @@
   <configSections>
     <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
     <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
-  </configSections>
+  <section name="razorJSSettings" type="RazorJS.Configuration.RazorJSSettings, RazorJS" /></configSections>
   <connectionStrings>
     <add name="BRMContext" connectionString="data source = 10.11.12.136\ASPRACTICE; Database = Training2017; user=training2017;password=training2017;" providerName="System.Data.SqlClient" />
   </connectionStrings>
@@ -24,7 +24,9 @@
     <httpModules>
       <add name="ApplicationInsightsWebTracking" type="Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule, Microsoft.AI.Web" />
     </httpModules>
-  </system.web>
+  <httpHandlers>
+            <add path="razorjs.axd" verb="GET" type="RazorJS.RazorJSHandler" />
+        </httpHandlers></system.web>
   <runtime>
     <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
       <dependentAssembly>
@@ -45,7 +47,7 @@
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="System.Web.Mvc" publicKeyToken="31bf3856ad364e35" />
-        <bindingRedirect oldVersion="1.0.0.0-5.2.3.0" newVersion="5.2.3.0" />
+        <bindingRedirect oldVersion="0.0.0.0-5.2.3.0" newVersion="5.2.3.0" />
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="WebMatrix.WebData" publicKeyToken="31bf3856ad364e35" culture="neutral" />
@@ -73,7 +75,9 @@
       <remove name="ApplicationInsightsWebTracking" />
       <add name="ApplicationInsightsWebTracking" type="Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule, Microsoft.AI.Web" preCondition="managedHandler" />
     </modules>
-  </system.webServer>
+  <handlers>
+            <add name="RazorJSHandler" path="razorjs.axd" verb="GET" type="RazorJS.RazorJSHandler" />
+        </handlers></system.webServer>
   <entityFramework>
     <defaultConnectionFactory type="System.Data.Entity.Infrastructure.LocalDbConnectionFactory, EntityFramework">
       <parameters>
@@ -84,4 +88,9 @@
       <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
     </providers>
   </entityFramework>
-</configuration>
+<razorJSSettings handlerPath="~/razorjs.axd">
+        <!-- If empty all paths are valid -->
+        <allowedPaths>
+            <add path="~/Scripts" />
+        </allowedPaths>
+    </razorJSSettings></configuration>

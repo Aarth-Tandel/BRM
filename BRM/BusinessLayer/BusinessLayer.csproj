@@ -96,6 +96,7 @@
     <Compile Include="BLAddUser.cs" />
     <Compile Include="BLApplication.cs" />
     <Compile Include="BLForgotPassword.cs" />
+    <Compile Include="BLJenkins.cs" />
     <Compile Include="BLLogTable.cs" />
     <Compile Include="BLUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

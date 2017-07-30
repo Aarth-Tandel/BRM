@@ -1,14 +1,14 @@
 10
 
 dir
-1521
+1726
 https://proind-sus.ad.prolifics.com/svn/Offshore_ADM/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Views/Shared
 https://proind-sus.ad.prolifics.com/svn/Offshore_ADM
 
 
 
-2017-05-10T10:15:17.707709Z
-1521
+2017-06-23T07:13:29.442365Z
+1726
 ATandel@PROLIFICS
 
 
@@ -28,14 +28,14 @@ ATandel@PROLIFICS
 
 _Layout.cshtml
 file
+1751
 
 
 
-
-2017-05-10T10:16:32.241213Z
-a765689d025db2d78dd09e161bedcf2e
-2017-05-10T10:15:17.707709Z
-1521
+2017-06-28T12:09:55.424973Z
+258cd18f9d1f15add01d4b1388135ffd
+2017-07-04T10:18:37.475265Z
+1751
 ATandel@PROLIFICS
 
 
@@ -58,5 +58,39 @@ ATandel@PROLIFICS
 
 
 
-3053
+3497
+
+_Grid.cshtml
+file
+1751
+
+
+
+2017-07-04T08:52:20.211517Z
+e04bb21c5969a1922ee1d0ba2e5648fe
+2017-07-04T10:18:37.475265Z
+1751
+ATandel@PROLIFICS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2149
 

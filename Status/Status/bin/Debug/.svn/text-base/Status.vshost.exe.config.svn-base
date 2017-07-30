@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <connectionStrings>
+    <add name ="LOGIN"
+         connectionString ="data source = 10.11.12.136\ASPRACTICE; Database = Training2017; user=training2017;password=training2017;"
+         providerName ="System.Data.SqlClient"/>
+  </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+</configuration>

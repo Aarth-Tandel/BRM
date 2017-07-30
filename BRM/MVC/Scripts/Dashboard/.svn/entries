@@ -1,14 +1,14 @@
 10
 
 dir
-1521
+1726
 https://proind-sus.ad.prolifics.com/svn/Offshore_ADM/TraineeEnablement/branches/Batch-2017/Assignments/Aarth%20Tandel/Weekly%20Assinments/Week5_24_04_2017/BRM/MVC/Scripts/Dashboard
 https://proind-sus.ad.prolifics.com/svn/Offshore_ADM
 
 
 
-2017-05-10T10:15:17.707709Z
-1521
+2017-06-23T07:13:29.442365Z
+1726
 ATandel@PROLIFICS
 
 
@@ -26,16 +26,16 @@ ATandel@PROLIFICS
 
 02ea21d4-7184-ff4d-a592-8e3bf4abf685
 
-Dropdowns.js
+DataBinding.js
 file
 
 
 
 
-2017-05-10T10:16:30.529042Z
-bd0401d534abc5693da293b1f2089f97
-2017-05-10T10:15:17.707709Z
-1521
+2017-06-23T07:10:33.354435Z
+ecfe40d24a3cd631835bf9cb07a2d25c
+2017-06-23T07:13:29.442365Z
+1726
 ATandel@PROLIFICS
 
 
@@ -58,5 +58,39 @@ ATandel@PROLIFICS
 
 
 
-2232
+5125
+
+Webgrid.js
+file
+1752
+
+
+
+2017-07-04T09:08:21.782105Z
+af85d4bb2488e3246c87946fcd37ffb7
+2017-07-04T10:18:55.882438Z
+1752
+ATandel@PROLIFICS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5453
 
